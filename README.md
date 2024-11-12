@@ -1,9 +1,9 @@
-# My Portfolio
-This is a collection repository where I can show my work. and tryouts in git.
+# Tech Writing
+All my knowledge about tech writing can be found here. Will keep updating. Ciao.
 
 ## Repository Structure
-- Technical Writing
-- Human Resources
+- tryouts
+- cheatsheets
 
 ## Contact me
 ### email: sneha_tojo@yahoo.com
