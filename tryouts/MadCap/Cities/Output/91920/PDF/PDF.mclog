@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2024 r2 Generated PDF.fltar" Date="2024-11-06T16:20:06.8328845-05:00">
+    <Messages>Compiling target PDF...
+WARNING: Please note that you are using a trial version. The generated output will contain scrambled content.
+Removing previously generated content...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Primary TOC...
+Processing Primary TOC...
+Processing Page Layouts...
+Collecting source files...
+Processing source files...
+Processing topic: Africa.htm
+Processing CSS: Resources\Stylesheets\Styles.css...
+Processing topic: Cairo.htm
+Processing topic: Johannesburg.htm
+Processing topic: Nairobi.htm
+Processing topic: Asia.htm
+Processing topic: Jakarta.htm
+Processing topic: Shanghai.htm
+Processing topic: Tokyo.htm
+Processing topic: Europe.htm
+Processing topic: Istanbul.htm
+Processing topic: London.htm
+Processing topic: Moscow.htm
+Processing topic: North America.htm
+Processing topic: Mexico City.htm
+Processing topic: New York.htm
+Processing topic: Toronto.htm
+Processing CSS: Resources\TableStyles\TableStyle.css...
+Processing topic: Oceania.htm
+Processing topic: Brisbane.htm
+Processing topic: Melbourne.htm
+Processing topic: Sydney.htm
+Processing topic: South America.htm
+Processing topic: Bogota.htm
+Processing topic: Lima.htm
+Processing topic: Rio.htm
+Processing topic: Santiago.htm
+Topic was included in the Flare TOC more than once. The content will still be exported to the output more than once.
+Processing topic: South America.htm
+Linking cross-references...
+Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Africa/africa.htm/nairobi.htm
+Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Africa/africa.htm/johannesburg.htm
+Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Africa/africa.htm/cairo.htm
+Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Asia/Asia.htm/Tokyo.htm
+Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Asia/Asia.htm/Shanghai.htm
+Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Asia/Asia.htm/Jakarta.htm
+Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Europe/Europe.htm/Moscow.htm
+Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Europe/Europe.htm/London.htm
+Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Europe/Europe.htm/Istanbul.htm
+Cross-referenced topic is not part of TOC: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/North America/San Francisco.htm
+Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Oceania/oceania.htm/sydney.htm
+Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Oceania/oceania.htm/melbourne.htm
+Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Oceania/oceania.htm/brisbane.htm
+Creating chapters...
+Paginating...
+Collecting TOC and Index data..
+Generating TOC and Index...
+Formatting page numbers...
+Updating cross-references...
+Processing variables in GeneratedTOC.htm...
+Paginating GeneratedTOC.htm...
+     25 pages completed...
+     Final page count = 27.
+Updating links...
+Adding PDF for PDF.htm...
+Saving PDF PDF.pdf...
+Removing temporary chapter files...
+Generating final output...
+Patching links and page references...
+Generated ../../../PDF/PDF.pdf
+Saving result set...
+Ignored Compiler Warnings: 12
+Output generated in 8 second(s).
+
+Done
+Saving log to "C:\Users\91920\Desktop\Flare Intro Training\Cities\Output\91920\PDF\PDF.mclog"
+</Messages>
+    <Warnings>
+        <LogEntry Message="WARNING: Please note that you are using a trial version. The generated output will contain scrambled content.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="PDF" ErrorID="10068" />
+        <LogEntry File="../../../Content/Africa/Africa.htm" Message="Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Africa/africa.htm/nairobi.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Compiler" Target="PDF" ErrorID="10031" />
+        <LogEntry File="../../../Content/Africa/Africa.htm" Message="Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Africa/africa.htm/johannesburg.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Compiler" Target="PDF" ErrorID="10031" />
+        <LogEntry File="../../../Content/Africa/Africa.htm" Message="Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Africa/africa.htm/cairo.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Compiler" Target="PDF" ErrorID="10031" />
+        <LogEntry File="../../../Content/Asia/Asia.htm" Message="Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Asia/Asia.htm/Tokyo.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Compiler" Target="PDF" ErrorID="10031" />
+        <LogEntry File="../../../Content/Asia/Asia.htm" Message="Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Asia/Asia.htm/Shanghai.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Compiler" Target="PDF" ErrorID="10031" />
+        <LogEntry File="../../../Content/Asia/Asia.htm" Message="Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Asia/Asia.htm/Jakarta.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Compiler" Target="PDF" ErrorID="10031" />
+        <LogEntry File="../../../Content/Europe/Europe.htm" Message="Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Europe/Europe.htm/Moscow.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Compiler" Target="PDF" ErrorID="10031" />
+        <LogEntry File="../../../Content/Europe/Europe.htm" Message="Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Europe/Europe.htm/London.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Compiler" Target="PDF" ErrorID="10031" />
+        <LogEntry File="../../../Content/Europe/Europe.htm" Message="Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Europe/Europe.htm/Istanbul.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Compiler" Target="PDF" ErrorID="10031" />
+        <LogEntry File="../../../Content/North America/North America.htm" Message="Cross-referenced topic is not part of TOC: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/North America/San Francisco.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Compiler" Target="PDF" ErrorID="40035" />
+        <LogEntry File="../../../Content/Oceania/Oceania.htm" Message="Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Oceania/oceania.htm/sydney.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Compiler" Target="PDF" ErrorID="10031" />
+        <LogEntry File="../../../Content/Oceania/Oceania.htm" Message="Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Oceania/oceania.htm/melbourne.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Compiler" Target="PDF" ErrorID="10031" />
+        <LogEntry File="../../../Content/Oceania/Oceania.htm" Message="Missing cross-referenced file: file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Oceania/oceania.htm/brisbane.htm&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Cross-Reference Compiler" Target="PDF" ErrorID="10031" />
+    </Warnings>
+    <Errors />
+</MadCapLog>

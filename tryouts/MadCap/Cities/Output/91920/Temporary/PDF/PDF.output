@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/91920/PDF/PDF.pdf"
+  BuildVersion="20.1.9037.40627">
+  <Files>
+    <Url
+      Source="Output/91920/Temporary/PDF/PDF_794ABEE2/Resources/Images/brisbane.png" />
+    <Url
+      Source="Output/91920/Temporary/PDF/PDF_794ABEE2/Resources/Images/melbourne.png" />
+    <Url
+      Source="Output/91920/PDF/PDF.pdf" />
+    <Url
+      Source="Output/91920/Temporary/PDF/PDF_794ABEE2/Resources/Images/rio.png" />
+    <Url
+      Source="Output/91920/Temporary/PDF/PDF_794ABEE2/Resources/Images/bogota.png" />
+    <Url
+      Source="Output/91920/Temporary/PDF/PDF_794ABEE2/Resources/Images/new_york.png" />
+    <Url
+      Source="Output/91920/Temporary/PDF/PDF_794ABEE2/Resources/Images/lima.png" />
+    <Url
+      Source="Output/91920/Temporary/PDF/PDF_794ABEE2/Resources/Images/sydney.png" />
+    <Url
+      Source="Output/91920/Temporary/PDF/PDF_794ABEE2/Resources/Images/toronto.png" />
+    <Url
+      Source="Output/91920/Temporary/PDF/PDF_794ABEE2/Resources/TableStyles/TableStyle.css" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

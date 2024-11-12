@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Users\91920\AppData\Local\Temp\MadCap Software\Flare\SkinEditor\_572368B4\logo.png" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage">
+        <Link Value="C:\Users\91920\Desktop\Flare Intro Training\Cities\Content\Resources\Multimedia\santiago.mp4" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Users\91920\Desktop\Flare Intro Training\Cities\Content\North America\San Francisco.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\Users\91920\Desktop\Flare Intro Training\Cities\Content\Africa\Africa.htm" />
+    </Dialog>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\Users\91920\Desktop\Flare Intro Training\Cities\Content\Resources\Snippets\MostPopulousCities.flsnp" />
+    </Dialog>
+</RecentLinks>

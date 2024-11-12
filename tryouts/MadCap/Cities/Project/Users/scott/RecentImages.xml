@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UrlList>
+    <Url Source="Resources/Images/toronto.png" />
+    <Url Source="Resources/Images/rio.png" />
+    <Url Source="Resources/Images/new_york.png" />
+    <Url Source="Resources/Images/bogota.png" />
+    <Url Source="Resources/Images/lima.png" />
+    <Url Source="Resources/Images/brisbane.png" />
+    <Url Source="Resources/Images/melbourne.png" />
+    <Url Source="Resources/Images/sydney.png" />
+    <Url Source="Resources/Images/europe.png" />
+    <Url Source="Resources/Images/south_america.png" />
+    <Url Source="Resources/Images/oceania.png" />
+    <Url Source="Resources/Images/north_america.png" />
+    <Url Source="Resources/Images/asia.png" />
+    <Url Source="Resources/Images/africa.png" />
+</UrlList>

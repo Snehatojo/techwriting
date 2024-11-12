@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Africa/Africa.htm'],s:['$2','glnbal','siy'],p:[['$2',7],['caale',26],['hs',9],['of',15],['the',17]]});

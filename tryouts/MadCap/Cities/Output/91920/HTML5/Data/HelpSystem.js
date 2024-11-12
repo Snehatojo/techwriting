@@ -1,0 +1,10 @@
+var xmlHelpSystemData = "";
+xmlHelpSystemData += '<?xml version=\"1.0\" encoding=\"utf-8\"?>';
+xmlHelpSystemData += '<WebHelpSystem DefaultUrl=\"Content/Home.htm\" Toc=\"Data/Tocs/TOC.js\" Index=\"Data/Index.js\" Concepts=\"Data/Concepts.js\" SearchDatabase=\"Data/Search.js\" Synonyms=\"Data/Synonyms.xml\" SearchUrl=\"Content/Search.htm\" PathToScriptsFolder=\"Resources/Scripts/\" SkinName=\"TopNav\" SkinID=\"TopNav\" Multilingual=\"false\" Skins=\"TopNav\" BuildTime=\"11/7/2024 12:37:25 PM\" BuildVersion=\"20.1.9037.40627\" TargetType=\"WebHelp2\" SkinTemplateFolder=\"Skin/\" InPreviewMode=\"false\" TopNavTocPath=\"false\" MoveOutputContentToRoot=\"false\" ReplaceReservedCharacters=\"false\" MakeFileLowerCase=\"false\" UseCustomTopicFileExtension=\"false\" PreventExternalUrls=\"false\" EnableResponsiveOutput=\"true\" IncludeGlossarySearchResults=\"true\" ResultsPerPage=\"20\" FeaturedSnippetsScopeID=\"AllFiles\" FeaturedSnippetsResults=\"1\" KnowledgePanelResults=\"1\" IncludeMicroContent=\"true\" xml:lang=\"en-us\" LanguageName=\"English\" SearchEngine=\"MadCapSearch\" IncludeCSHRuntime=\"true\" DebugMode=\"false\" ShowMadCapBacklink=\"false\" HasELearning=\"false\">';
+xmlHelpSystemData += '    <CatapultSkin Version=\"6\" SkinType=\"WebHelp2\" ComponentType=\"MasterPage\" TemplateName=\"Fluid\" Comment=\"HTML5 Top Navigation skin\" EnableResponsiveOutput=\"True\" Name=\"TopNav\" SkinID=\"TopNav\" SkinClass=\"_Skins_TopNav\" HideNavOnStartup=\"False\" LogoUrl=\"\">';
+xmlHelpSystemData += '        <WebHelpOptions NavigationPanePosition=\"Right\" MainMenuPosition=\"Top\" EnableSticky=\"All\" />';
+xmlHelpSystemData += '        <MicroContentOptions FeaturedSnippetsViewMode=\"Truncated\" KnowledgePanelViewMode=\"Truncated\" />';
+xmlHelpSystemData += '        <ProxyOptions FAQProxyViewMode=\"DropDown\" KnowledgeProxyViewMode=\"Truncated\" PromotionProxyViewMode=\"PlainText\" />';
+xmlHelpSystemData += '    </CatapultSkin>';
+xmlHelpSystemData += '</WebHelpSystem>';
+MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('HelpSystem', xmlHelpSystemData);
