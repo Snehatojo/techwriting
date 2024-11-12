@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="true"
+  Topics="specific"
+  ImportResources="true"
+  ResourceFolder="file:///C:/Users/91920/Desktop/Flare Intro Training/Cities/Content/Resources/"
+  SourceFolders=""
+  ImportTopics="specific"
+  ImportTopicsLocation="Content/Asia/"
+  LastImport="2024-11-11T13:22:35.6858820-05:00">
+  <Files>
+    <Url
+      Source="../../../Files/San Diego.htm"
+      AbsoluteSource="file:///C:/Users/91920/Desktop/Flare Intro Training/Files/San Diego.htm" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Asia/San Diego.htm"
+      TimeStamp="11/11/2024 1:22:31 PM" />
+    <Url
+      Source="../TOCs/practice file.fltoc"
+      TimeStamp="11/11/2024 1:22:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/san_diego4.png"
+      TimeStamp="30/10/2024 1:07:28 PM" />
+  </GeneratedFiles>
+</HtmlImport>

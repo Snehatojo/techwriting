@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/VariableSets/Variables.flvar" />
+    <Link
+      Url="Content/Africa/Africa.htm" />
+    <Link
+      Url="Content/Resources/Images/africa.png" />
+    <Link
+      Url="Content/Asia/Asia.htm" />
+    <Link
+      Url="Content/Resources/Images/asia.png" />
+    <Link
+      Url="Content/Europe/Europe.htm" />
+    <Link
+      Url="Content/Resources/Images/europe.png" />
+    <Link
+      Url="Content/North America/North America.htm" />
+    <Link
+      Url="Content/Resources/Images/north_america.png" />
+    <Link
+      Url="Content/Oceania/Oceania.htm" />
+    <Link
+      Url="Content/Resources/Images/oceania.png" />
+    <Link
+      Url="Content/South America/South America.htm" />
+    <Link
+      Url="Content/Resources/Images/south_america.png" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/VariableSets/Variables.flvar" />
+    <Link
+      Url="Content/Africa/Africa.htm" />
+    <Link
+      Url="Content/Resources/Images/africa.png" />
+    <Link
+      Url="Content/Asia/Asia.htm" />
+    <Link
+      Url="Content/Resources/Images/asia.png" />
+    <Link
+      Url="Content/Europe/Europe.htm" />
+    <Link
+      Url="Content/Resources/Images/europe.png" />
+    <Link
+      Url="Content/North America/North America.htm" />
+    <Link
+      Url="Content/Resources/Images/north_america.png" />
+    <Link
+      Url="Content/Oceania/Oceania.htm" />
+    <Link
+      Url="Content/Resources/Images/oceania.png" />
+    <Link
+      Url="Content/South America/South America.htm" />
+    <Link
+      Url="Content/Resources/Images/south_america.png" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="Variables.CompanyName" />
+  </Variables>
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

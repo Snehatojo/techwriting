@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/North America/Mexico City.htm" />
+    <Link
+      Url="Content/North America/New York.htm" />
+    <Link
+      Url="Content/North America/San Francisco.htm" />
+    <Link
+      Url="Content/North America/Toronto.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/North America/Mexico City.htm" />
+    <Link
+      Url="Content/North America/New York.htm" />
+    <Link
+      Url="Content/North America/San Francisco.htm" />
+    <Link
+      Url="Content/North America/Toronto.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
