@@ -1,2 +1,0 @@
-# Analytical Writings
-This sample demonstrates my analytical writing skills, showcasing my ability to conduct thorough research and follow a structured format based on a detailed plan and outline. The tone reflects academic rigor, with citations provided in APA 7 style. These elements highlight my proficiency in researching, organizing, and simplifying complex content - key skills essential for an effective technical writer.
