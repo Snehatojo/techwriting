@@ -87,3 +87,7 @@ It is highly beneficial to join a community to connect with people of a similar 
 ## Conclusion
 Being a technical writer may seem like no sweat, but presenting some of the most complex information in simple words is a hard nut to crack.
 However, all it takes is a knack to approach concepts from the perspective of a non-technical audience. Thus, it is important to practice with real-world examples and projects to enhance the comprehensiveness of your writing.
+## Contact me
+Email: sneha_tojo@yahoo.com
+Phone: (437)556-0399
+LinkedIn: https://www.linkedin.com/in/sneha-kanichai/
