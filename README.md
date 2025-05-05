@@ -1,7 +1,7 @@
 # Resources for Technical Writing
 Technical writing makes technology accessible for everyone and helps users solve technological problems independently. There is a prominent need for technical writers today, and technical writing is indeed a rewarding career for those with a flair for writing and technology.
 ## Short Term Courses
-If you are a beginner in this field, it would be a good option to take an introductory online course to familiarize yourself with the tools, terminologies, and the technical writing process. Here are some courses that can be taken as a foundation:
+If you are a beginner in this field, taking an introductory online course to familiarize yourself with the tools, terminologies, and the technical writing process would be a good option. Here are some courses that can be cosnidered as a foundation:
 - Google-[Technical Writing Courses](https://developers.google.com/tech-writing?ref=everythingtechnicalwriting.com)
 - Coursera-[Introduction to Technical Writing](https://www.coursera.org/learn/technical-writing-introduction)
 - Udemy-[Professional Technical Writing: Advance your Writing Skills](https://www.udemy.com/course/technical-writing-and-editing/)
@@ -10,7 +10,7 @@ If you are a beginner in this field, it would be a good option to take an introd
 - Technical Writer HQ-[Certified Technical Writer](https://technicalwriterhq.com/technical-writing-certification/)
 - Coursera-[Writing in the Sciences](https://www.coursera.org/learn/sciwrite)
 
-Along with these, you can consider taking some LinkedIn Learning courses as well as they would help build theoretical knowledge about the concepts in technical Writing. They would also show up on your profile and amplify your credentials.
+Along with these, you may want to take some LinkedIn Learning courses, as they would help build theoretical knowledge about the concepts in technical Writing. They would also show up on your profile and amplify your credentials.
 ## Essential Tools in Technical Writing
 Most organizations look for candidates with tool proficiency in Publishing, Authoring, Screen Capture, Version control, Image Editing, Video Editing, and Spell check. Below is a list of tools popularly used for technical writing.
 ### Advanced Writing Tools
