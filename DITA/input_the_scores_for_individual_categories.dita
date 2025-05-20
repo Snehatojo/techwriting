@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="input_the_scores_for_individual_categories">
+    <title> Input the scores for individual categories</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>Enter scores for each criterion associated with the paper type. All the criteria for
+                scoring will be appeared once <b>Paper Type</b> is selected. </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Navigate to Properties panel on the left pane and section Score.</cmd>
+                <info>
+                    <fig id="fig_tbr_f2s_jfc">
+                        <title><i>Enter scores for each paper type</i></title>
+                        <image href="images/scores.png" id="image_ubr_f2s_jfc"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Follow the rules for assigning scores: </cmd>
+                <substeps id="substeps_j5h_kl3_jfc">
+                    <substep>
+                        <cmd>Scores range from 1 to 5, 5 being the highest. </cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Only the associated criteria matched in Step3: Identify Feedback
+                            Criteria based on the rubric used should be given scores. </cmd>
+                    </substep>
+                    <substep>
+                        <cmd>For example, if the Paper Type is YYYYYY, the Expert should only
+                            provide scores for the AAAA, BBBB and CCCC. </cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        <result id="result_iwj_5l3_jfc">
+            <note id="note_lvv_5l3_jfc">
+                <p>Always make sure to input the scores and then click on save to make sure all
+                    scores are saved and do recheck this step before moving on as Zoho might glitch
+                    sometimes.</p>
+            </note>
+        </result>
+    </taskbody>
+</task>

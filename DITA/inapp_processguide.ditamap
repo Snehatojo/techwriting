@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>In-App Process Guide</title>
+    <topicref href="in-app_process_guide.dita"/>
+    <topicref href="version_history.dita"/>
+    <topicref href="inapp.dita"/>
+    <topicref href="assign_ticket.dita"/>
+    <topicref href="update_paper_type.dita"/>
+    <topicref href="identify_feedback_criteria_based_on_the_rubric_used.dita"/>
+    <topicref href="input_the_scores_for_individual_categories.dita"/>
+    <topicref
+        href="add_the_written_feedback_for_each_criterion_as_individual_comments_on_the_ticket.dita">
+        <topicref href="special_case_multiple_papers_additional_remarks.dita"/>
+    </topicref>
+    <topicref href="change_the_status_of_the_ticket_to_closed.dita"/>
+    <topicref href="add_tags_for_the_ticket.dita"/>
+    <topicref href="send_the_student_an_email_notifying_them_that_their_feedback_is_ready.dita"/>
+    <topicref href="special_notes.dita"/>
+    <topicref href="appendix.dita"/>
+    <topicref href="glossary.dita"/>
+</map>

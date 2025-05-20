@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="add_tags_for_the_ticket">
+    <title>Add tags for the ticket</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>Do not forget the tags for the ticket. A ticket should always have 2 tags. ABCDEFG
+            is mandatory one and the second one is dependent upon the Paper Type of the ticket. It
+            will range from, short_form, paragraph_form, not_an_essay, not_in_english,
+            email_returned, annotated_bib (Refer XXXXXX Guide).</context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

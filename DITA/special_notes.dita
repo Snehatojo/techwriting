@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="special_notes">
+    <title>Special notes (Tips and Tricks)</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>Update paper type and scores. Save it. Then only move to comments.</cmd>
+            </step>
+            <step>
+                <cmd>Ensure that the steps are followed in chronological order, as failing to do so
+                    may prevent the feedback from being sent to the student. </cmd>
+            </step>
+            <step>
+                <cmd><b>Important: Ticket has to be closed before the email snip (No pdf one) is
+                        sent to the student.</b></cmd>
+            </step>
+            <step>
+                <cmd>Always save the scores, recheck twice before moving on to adding the comments.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Always TYPE in the # and the category names. Do NOT copy paste them. </cmd>
+            </step>
+            <step>
+                <cmd>Make sure the comments do not have any hyperlinks created in them randomly.
+                    Always paste from MS Word using <i>paste as plain</i> text feature. Just right
+                    click and tap on paste as plain text. </cmd>
+            </step>
+            <step>
+                <cmd>Do not change the spelling of category names. Do not input spellings like
+                    Grammar_and_Spellings its only Grammar_and_Spelling.</cmd>
+            </step>
+            <step>
+                <cmd>Do not forget the underscores in between the category names with spaces -
+                    Grammar_and_Spelling. <b>Underscores are mandatory.</b></cmd>
+            </step>
+            <step>
+                <cmd>Do not forget the tags. </cmd>
+            </step>
+            <step>
+                <cmd> If more than one special request (E.g. Grammar and APA snip) then there is no
+                    need to write two <b>#Please_Note</b> comments. You can input both/all the
+                    special requests in one #Please_Note section. </cmd>
+            </step>
+            <step>
+                <cmd>Paper type for <i>Not an essay</i> and <i>Not in English</i> will remain as
+                    None</cmd>
+            </step>
+            <step>
+                <cmd>For a neat feedback presentation: If you are first typing the feedback in
+                    Microsoft Word and then copying it in the portal for in-app feedback, you may
+                    use Paste Special (Ctrl+Shift+V) while commenting to maintain a consistency in
+                    the font type and size. This will make the feedback look symmetric and clean.
+                </cmd>
+            </step>
+        </steps>
+        <result id="result_dwg_ycs_jfc">
+            <note id="note_ex5_ycs_jfc" type="important"><b>YOU MUST TYPE THE #Headings ON THE
+                    PORTAL DIRECTLY. YOU MUST NOT COPY-PASTE </b>THESE.</note>
+        </result>
+    </taskbody>
+</task>

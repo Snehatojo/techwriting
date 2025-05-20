@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="identify_feedback_criteria_based_on_the_rubric_used">
+    <title>Identify feedback criteria based on the rubric used</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>Each Paper Type has a number of associated criteria that will be provided for the
+            feedback. For example, if the Paper Type is YYYYYY, the criteria will be: AAAA, BBBB and
+            CCCC. You’ll have to evaluate the paper using these criteria (Please refer to XXXXXX
+            Guide for more information on this topic). </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

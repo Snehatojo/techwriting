@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="change_the_status_of_the_ticket_to_closed">
+    <title>Change the status of the ticket to Closed</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>The ticket should be closed before sending out the email snip to the student. You
+            can close the ticket from the left-hand side pane. </context>
+        <steps>
+            <step>
+                <cmd>Navigate to <b>Properties</b> panel on the left pane. </cmd>
+            </step>
+            <step>
+                <cmd>Select <i>Closed</i> from the dropdown menu for <b>Status. </b></cmd>
+                <info>
+                    <fig id="fig_r3p_1fs_jfc">
+                        <title><i>Change the status of the ticket to Closed</i></title>
+                        <image href="images/change_the_status_of_the_ticket_to_closed.png"
+                            id="image_s3p_1fs_jfc"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

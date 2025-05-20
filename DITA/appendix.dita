@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_ukd_nk2_jfc">
+    <title>Appendix: Reference Materials</title>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_ebd_tk2_jfc">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="c1" colwidth="1*"/>
+                <colspec colnum="2" colname="c2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Reference</entry>
+                        <entry>Description</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>XXXXXX Guide</entry>
+                        <entry>Rubric layout by Chegg for evaluating academic papers.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
