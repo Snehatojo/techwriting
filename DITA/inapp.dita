@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="inapp">
+    <title>In-App</title>
+    <shortdesc>Process guide for life cycle maintenance in ticketing system used by Chegg.
+        inc.</shortdesc>
+    <conbody>
+        <p>Chegg. inc has it's own web interface defined, for managing the life cycle of each
+            tickets. Client will upload their work on to this very ticketing system. these has to be
+            selected carefully and processed. This document explains the procedure, rules and the
+            steps to be followed for a better maintenance of the ticketing system ensuring quality
+            results.</p>
+    </conbody>
+</concept>

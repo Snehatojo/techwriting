@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="special_case_multiple_papers_additional_remarks">
+    <title> Special case: Multiple papers/Additional remarks</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>There could be cases when a ticket contains multiple papers. This falls out of the
+            categorization mentioned in XXXXXX Guide. For such cases, the Step: Input the scores for
+            individual categories must not be done. Only Step: Add the written feedback for each
+            criterion as individual comments on the ticket. must be done, with the following
+            exception:</context>
+        <steps>
+            <step>
+                <cmd>Comment with hash tag as <b>#Please_Note.</b></cmd>
+            </step>
+            <step>
+                <cmd> No need to add any other criterion hash tags for this ticket.</cmd>
+                <info>
+                    <fig id="fig_c4m_q5r_jfc">
+                        <p>
+                            <fig id="fig_ss3_w2s_jfc">
+                                <title><i>Adding <b>#Please_Note</b> tag for special
+                                    cases.</i></title>
+                                <image href="images/adding_please_note_tag.png"
+                                    id="image_ts3_w2s_jfc"/>
+                            </fig>
+                        </p>
+                    </fig>
+                    <note id="note_lzs_t5r_jfc">This feature can be used in normal tickets with
+                        single papers as well. It can be used in cases where any general comment
+                        doesn’t fit the scoring standards defined. </note>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

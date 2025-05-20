@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /D:\Learning\TW\DITA\temp\pdf-css-html5?><?workdir-uri file:/D:/Learning/TW/DITA/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="reference_ukd_nk2_jfc" ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/D:/Learning/TW/DITA/Glossary.dita" xtrc="reference:1;3:39" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/Learning/TW/DITA/Glossary.dita" xtrc="title:1;4:12">Glossary</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/D:/Learning/TW/DITA/Glossary.dita" xtrc="shortdesc:1;5:16"/>
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/D:/Learning/TW/DITA/Glossary.dita" xtrc="refbody:1;6:14">
+        <data class="- topic/data " xtrf="file:/D:/Learning/TW/DITA/Glossary.dita" xtrc="data:1;7:16"/>
+        <simpletable relcolwidth="1* 1*" frame="all" id="table_ebd_tk2_jfc" class="- topic/simpletable " xtrf="file:/D:/Learning/TW/DITA/Glossary.dita" xtrc="simpletable:1;8:77">
+            <strow class="- topic/strow " xtrf="file:/D:/Learning/TW/DITA/Glossary.dita" xtrc="strow:1;9:20">
+                <stentry class="- topic/stentry " xtrf="file:/D:/Learning/TW/DITA/Glossary.dita" xtrc="stentry:1;10:26" dita-ot:x="1" dita-ot:y="1">XXXXXX Guide</stentry>
+                <stentry class="- topic/stentry " xtrf="file:/D:/Learning/TW/DITA/Glossary.dita" xtrc="stentry:2;11:26" dita-ot:x="2" dita-ot:y="1">Rubrics rules layout by Chegg for identification of a paper type</stentry>
+            </strow>
+        </simpletable>
+    </refbody>
+</reference>

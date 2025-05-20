@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_jrt_vbr_jfc">
+    <title>In-App Feedback Process Guide</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_klx_bcr_jfc">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="c1" colwidth="1*"/>
+                <colspec colnum="2" colname="c2" colwidth="1*"/>
+                <tbody>
+                    <row>
+                        <entry>Version</entry>
+                        <entry>0.1</entry>
+                    </row>
+                    <row>
+                        <entry>Date</entry>
+                        <entry>May 19, 2025</entry>
+                    </row>
+                    <row>
+                        <entry>Authored by</entry>
+                        <entry>Sneha Tojo Kanichai</entry>
+                    </row>
+                    <row>
+                        <entry>Reviewed by </entry>
+                        <entry><i>Withheld for Confidentiality</i></entry>
+                    </row>
+                    <row>
+                        <entry>Approved By</entry>
+                        <entry><i>Withheld for Confidientiality</i></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
