@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="send_the_student_an_email_notifying_them_that_their_feedback_is_ready">
+    <title>Send the student an email notifying them that their feedback is ready. </title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>Send an email notification with our predefined template response. </context>
+        <steps>
+            <step>
+                <cmd>Open the email templates by clicking on the second icon from the left menu
+                    bar.</cmd>
+                <info>
+                    <fig id="fig_it3_2fs_jfc">
+                        <title><i>Open email templates.</i></title>
+                        <image href="images/open_email_templates.png" id="image_jt3_2fs_jfc"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Under the CONTACT NOTIFICATION section click the template named No PDF Feedback
+                    Ready to add the template’s text to the email.</cmd>
+                <info>
+                    <fig id="fig_ekt_fxr_jfc">
+                        <p>
+                            <fig id="fig_tlv_kfs_jfc">
+                                <title><i>Select the <b>No PDF Feedback Ready</b> option</i></title>
+                                <image href="images/select_the_no_pdf_%20feedback_ready_option.png"
+                                    id="image_ulv_kfs_jfc"/>
+                            </fig>
+                        </p>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>After clicking, it should include a short message that the feedback is ready
+                    and a URL to the feedback in our application. Before sending the final response,
+                    re-check the following:</cmd>
+                <substeps id="substeps_jpn_3xr_jfc">
+                    <substep>
+                        <cmd>URL includes the site URL and the ticket URL.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Site URL can be found in the <b>Additional Information</b> section of
+                            the ticket.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Upload URL can be found in the <b>Paper</b> section of the ticket. </cmd>
+                        <info>
+                            <fig id="fig_f24_txr_jfc">
+                                <p>
+                                    <fig id="fig_rcq_nfs_jfc">
+                                        <title><i>Include the site URL</i></title>
+                                        <image href="images/include_the_site_url.png"
+                                            id="image_scq_nfs_jfc"/>
+                                    </fig>
+                                </p>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="update_paper_type">
+    <title>Updating the paper type</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>Once assigned, open the ticket and identify the type of Paper. Updating the paper
+                type needs the following:</p>
+            <note id="note_ydk_s32_jfc">Please follow the guidelines specified at XXXXXX Guide for
+                more information</note>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click and open the assigned ticket.</cmd>
+            </step>
+            <step>
+                <cmd>Navigate to <b>Properties </b>panel on the left pane. </cmd>
+            </step>
+            <step>
+                <cmd>Go to section <b>Paper</b> > <b>Paper Type</b> > Select a <i>Paper Type</i>
+                    from the dropdown.</cmd>
+                <info>
+                    <fig id="fig_w5b_12s_jfc">
+                        <title><i>Select a paper type.</i></title>
+                        <image href="images/update_paper_type.png" id="image_x5b_12s_jfc"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

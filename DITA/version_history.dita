@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="version_history">
+    <title>Version History</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Following are the versions released for this document.<table frame="all" rowsep="1"
+                colsep="1" id="table_x5p_m33_jfc">
+                <title>Released versions</title>
+                <tgroup cols="2">
+                    <colspec colnum="1" colname="c1" colwidth="1*" align="center"/>
+                    <colspec colnum="2" colname="c2" colwidth="1*" align="center"/>
+                    <thead>
+                        <row>
+                            <entry>Version Number</entry>
+                            <entry>Changes</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>0.1</entry>
+                            <entry>Initial draft</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table></p>
+    </conbody>
+</concept>

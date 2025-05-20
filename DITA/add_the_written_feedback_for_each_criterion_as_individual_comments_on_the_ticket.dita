@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="add_the_written_feedback_for_each_criterion_as_individual_comments_on_the_ticket">
+    <title>Add the written feedback for each criterion as individual comments on the ticket. </title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>In the common Comment tab, detailed feedback comment for each scored criterion must
+                be entered. Once the comment is added, make sure to save your comment by pressing
+                Comment button on the bottom right. </p>
+            <p>This process has to be repeated for each criterion separately. Format of a comment
+                would be as follows:</p>
+            <p><b>#AAAA </b></p>
+            <p><b>Comment text </b></p>
+            <p>Follow these rules while adding the criterion names to comment: </p>
+            <ul id="ul_pc3_5nr_jfc">
+                <li>Always start a criterion with hash tag (#)</li>
+                <li>If any criterion has spaces ( ) in between, use underscore (_) in place of
+                    spaces. i.e. If the criterion name is Grammar and Spelling, then the name to be
+                    used would be #Grammar_and_Spelling </li>
+            </ul>
+            <fig id="fig_qrg_n2s_jfc">
+                <title><i>Add the feedback for each criterion as comments.</i></title>
+                <image
+                    href="images/add_the_written_feedback_for_each_criterion_as_individual_comments_on_the_ticket.png"
+                    id="image_rrg_n2s_jfc"/>
+            </fig>
+            <note id="note_ipj_24r_jfc" type="caution">Do not copy and paste the hashtags and
+                instead type them directly. The formatting sometimes adds odd characters to the Zoho
+                comment that are not visible to the human eye but cause the feedback to fail
+                validation</note>
+            <note id="note_e5t_f4r_jfc" type="caution">You can type-in or copy-paste the comments
+                from Microsoft Word/Notepad. Do not copy-paste from other sources as they are not
+                compatible with our software.</note>
+            <p>Once all the comments are saved individually, the final look would be as shown
+                below:</p>
+            <fig id="fig_tl2_q2s_jfc">
+                <title><i>Final view after adding comments.</i></title>
+                <image href="images/final_view_after_adding_comments.png" id="image_ul2_q2s_jfc"/>
+            </fig>
+        </context>
+    </taskbody>
+</task>

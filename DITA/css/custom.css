@@ -1,0 +1,6 @@
+/* Remove numbering before chapter titles */
+h1.topictitle1::before,
+h2.topictitle2::before,
+h3.topictitle3::before {
+  content: none !important;
+}

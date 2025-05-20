@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gbc_rh2_jfc">
+    <title>Assigning a ticket</title>
+    <shortdesc>The first step is to assign a ticket to yourself. Follow the steps as mentioned
+        below:</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open your ZOHO Desk account and navigate to <b>Tickets Tab</b> > <b>All
+                        Tickets</b> > <b>Team XXX</b></cmd>
+                <stepresult>
+                    <p>All the available tickets under Team XXX will be visible now.</p>
+                </stepresult>
+            </step>
+            <step>
+                <cmd>Click on Assign button for the ticket you wish to select. </cmd>
+                <info>It is situated at the right side of the ticket.</info>
+            </step>
+            <step>
+                <cmd>Choose your name from the drop-down list. </cmd>
+            </step>
+        </steps>
+        <result id="result_isz_dk2_jfc">
+            <note id="note_os3_2k2_jfc">
+                <p>Always pick Team XXX tickets. Make sure the system displays your initials after
+                    you make a selection. </p>
+            </note>
+        </result>
+    </taskbody>
+</task>
