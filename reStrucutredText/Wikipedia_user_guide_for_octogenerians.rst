@@ -55,40 +55,38 @@ C. Search about a topic.
 - Using the pointer, single click on the Start menu button  . This is usually found on the bottom pane of your screen.
 - This will open a pop-up menu containing the list of all applications. Frequently used applications will be listed on the top for easier access.
 
-.. image:: https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Fig-1.png
-        :alt: This is an image
-        :width: 500px
+.. raw:: HTML
+
+        <br><p align="center"><img src="https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Fig-1.png" width="500"><br><i>Figure 1: Icon for Edge browser</i></img></p><br>
 
 - Click on the icon for the Edge browser (denoted by the red arrow hand in Figure 1), and click on the icon using the pointer to open the browser.
 
 **Note:** There are chances that this icon may not be visible at first. In such cases, you can search for it by typing *Microsoft Edge* onto the search bar shown in the red block of Figure 1. The result will be displayed as below.
 
-.. image:: https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Fig-2_Search-for-Edge-browser.png
-        :alt: This is an image
-        :width: 800px
+.. raw:: HTML
 
-
+        <br><p align="center"><img src="https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Fig-2_Search-for-Edge-browser.png" width="800"><br><i>Figure 2: Search for edge browser</i></img></p><br>
 
 - Microsoft Edge browser will be opened as shown below:
 
-.. image:: https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Fig-3_Edge-Browser-homepage.png
-        :alt: This is an image
-        :width: 800px
+.. raw:: HTML
+
+        <br><p align="center"><img src="https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Fig-3_Edge-Browser-homepage.png" width="800"><br><i>Figure 3:Edge browser homepage</i></img></p><br>
 
 2. Navigate to the website for Wikipedia.
 ~~~~~~~~~~~~~~~
 
 - Type https://www.wikipedia.org into the address bar (zoomed-in portion in Figure 4) of the browser and press the **Enter** key.
 
-.. image:: https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Fig-4_Address-bar.png
-        :alt: This is an image
-        :width: 800px
+.. raw:: HTML
+
+        <br><p align="center"><img src="https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Fig-4_Address-bar.png" width="800"><br><i>Figure 4: Address bar</i></img></p><br>
 
 - The Wikipedia search page opens and you are now ready to research any topic of your choice.
 
-.. image:: https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Fig-5_key-items-on-the-Wikipedia-page.png
-        :alt: This is an image
-        :width: 800px
+.. raw:: HTML
+
+        <br><p align="center"><img src="https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Fig-5_key-items-on-the-Wikipedia-page.png" width="800"><br><i>Figure 5: Key items on the Wikipedia page</i></img></p><br>
 
 Key items to be noted on the Wikipedia page (Figure 5):
 ~~~~~~~~~~~~~~
@@ -108,17 +106,17 @@ Key items to be noted on the Wikipedia page (Figure 5):
 
 - You are now ready to research any topic of your choice. Begin by clicking on the search bar with your mouse to activate typing and type the topic using your keyboard.
 
-.. image:: https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Fig-6_Search-a-topic-on-wikipedia.png
-        :alt: This is an image
-        :width: 500px
+.. raw:: HTML
+
+        <br><p align="center"><img src="https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Fig-6_Search-a-topic-on-wikipedia.png" width="500"><br><i>Figure 6: Search a topic on Wikipedia</i></img></p><br>
 
 **Note:** When you begin to type, a number of related options might appear. You can either choose from them or go ahead with the typed content.
 
 - The search results will land you on a page that looks like this:
 
-.. image:: https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Fig-7_key-items-on-the-topic-page.png
-        :alt: This is an image
-        :width: 800px
+.. raw:: HTML
+
+        <br><p align="center"><img src="https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Fig-7_key-items-on-the-topic-page.png" width="800"><br><i>Figure 7:Key items on the topic page</i></img></p><br>
 
 Key items to be noted on the topic page (Figure 7):
 ~~~~~~~~~~~~~~~~~~~~~~~
