@@ -28,17 +28,18 @@ Not just Wikipedia, but to access any website you will need a computer or a lapt
 Key items to look for in this section.
 ------------------
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------+------------+---------------------+
-| Icons                                                                                                                                             | Name       | Description       |
-+============+============+=====================+
-.. image:: https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/reStrucutredText/images/Table item 1.png | Pointer        | This is a small arrow you see on the screen. It moves when you use your mouse/touchpad. You use it to choose and click things on your computer.   |
-        :alt: This is an image
-        :width: 50px      
-+------------+------------+---------------------+
-| Bob        | Start menu button        | This is the main starting point/collection of all applications that can be used on your computer. Click on this button using your pointer with the help of a mouse/touchpad.      |
-+------------+------------+---------------------+
-| Bob        | Edge browser        | This is the This is the browser that opens Wikipedia or any other related websites. Popular names for the same browser include MS Edge, Microsoft Edge, etc.  |
-+------------+------------+---------------------+
+.. raw:: HTML
+
+         <table border="2">
+            <thead>
+               <tr><th>Icons</th><th>Name</th><th>Description</th></tr>
+            </thead>
+            <tbody>
+               <tr><td><img src="https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Table-item-1.png" alt="pointer icon" width="50" height="40"></td><td>Pointer</td><td>This is a small arrow you see on the screen. It moves when you use your mouse/touchpad. You use it to choose and click things on your computer. <br/><strong>Tip:</strong> To choose or open something on the screen, move the pointer over it and click with the left button on your mouse.</td></tr>
+               <tr><td><img src="https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Table-item-2.png" alt="Menu" width="50" height="40"></td><td>Start menu button</td><td>This is the main starting point/collection of all applications that can be used on your computer. Click on this button using your pointer with the help of a mouse/touchpad.</td></tr>
+              <tr><td><img src="https://raw.githubusercontent.com/Snehatojo/techwriting/refs/heads/main/reStrucutredText/images/Table-item-3.png" alt="Menu" width="50" height="40"></td><td>Edge browser</td><td>This is the browser that opens Wikipedia or any other related websites. Popular names for the same browser include MS Edge, Microsoft Edge, etc.</td></tr>
+           </tbody>
+       </table>
 
 Steps to follow:
 -----------
@@ -52,6 +53,7 @@ C. Search about a topic.
 
 1. Open a web browser
 ~~~~~~~~
+
 - Using the pointer, single click on the Start menu button  . This is usually found on the bottom pane of your screen.
 - This will open a pop-up menu containing the list of all applications. Frequently used applications will be listed on the top for easier access.
 
