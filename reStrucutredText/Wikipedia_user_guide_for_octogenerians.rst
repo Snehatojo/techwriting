@@ -54,7 +54,7 @@ C. Search about a topic.
 1. Open a web browser
 ~~~~~~~~
 
-- Using the pointer, single click on the Start menu button  . This is usually found on the bottom pane of your screen.
+- Using the pointer, single click on the Start menu button. This is usually found on the bottom pane of your screen.
 - This will open a pop-up menu containing the list of all applications. Frequently used applications will be listed on the top for easier access.
 
 .. raw:: HTML
